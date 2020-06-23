@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ZeCaMo
+ *
+ */
+module helloGithub {
+}
